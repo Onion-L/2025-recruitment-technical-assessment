@@ -15,7 +15,7 @@
       />
     </div>
     <ol-typing-text
-      class="font-700 text-4xl mt-2"
+      class="font-700 text-4xl mt-2 dark:text-white"
       text="Unlock spaces, own your time, with Freerooms"
       :duration="10"
     />

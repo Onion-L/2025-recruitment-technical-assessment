@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@onionl-ui/preset':
-        specifier: ^0.0.8
-        version: 0.0.8
+        specifier: ^0.0.9
+        version: 0.0.9
       normalize.css:
         specifier: ^8.0.1
         version: 8.0.1
       onionl-ui:
-        specifier: ^0.1.0
-        version: 0.1.0(typescript@5.7.3)(vue@3.5.13(typescript@5.7.3))
+        specifier: ^0.1.1
+        version: 0.1.1(typescript@5.7.3)(vue@3.5.13(typescript@5.7.3))
       vue:
         specifier: ^3.5.13
         version: 3.5.13(typescript@5.7.3)
@@ -271,8 +271,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@onionl-ui/preset@0.0.8':
-    resolution: {integrity: sha512-Mv1JjHwvpGbm230IzfKBs77IWmvjlH+KZQkJY9GKGT1iRwa3b+m7sMcAKn6+igHNkp3httZBuAdfMxsNZ/ICNQ==}
+  '@onionl-ui/preset@0.0.9':
+    resolution: {integrity: sha512-C92NVk8COdxomo8Zldh5u4wAEBC0+U/4RmPZZKHSuge3FuG6j119059Fp8cBNgKAY0gSfDecA1ZOVlkI9UCMWg==}
 
   '@polka/url@1.0.0-next.28':
     resolution: {integrity: sha512-8LduaNlMZGwdZ6qWrKlfa+2M4gahzFkprZiAt2TF8uS0qQgBizKXpXURqvTJ4WtmupWxaLqjRb2UCTe72mu+Aw==}
@@ -742,8 +742,8 @@ packages:
   ofetch@1.4.1:
     resolution: {integrity: sha512-QZj2DfGplQAr2oj9KzceK9Hwz6Whxazmn85yYeVuS3u9XTMOGMRx0kO95MQ+vLsj/S/NwBDMMLU5hpxvI6Tklw==}
 
-  onionl-ui@0.1.0:
-    resolution: {integrity: sha512-VQw5vy5H3cBXGv8BL6nAxqty0Z5GU8rBMw/NpZig2QOPEQCLdAFhsti2d/ERqUBuA/82zRPeygXWLYpqT5ivdw==}
+  onionl-ui@0.1.1:
+    resolution: {integrity: sha512-wNY1sZ0JteHHp+2x59hDAtSnQPqyZxgDL4UEWE5BtUXPd1C7GCA0Mqo98CZVzjEt7lVJkbtHRJOsrdqW3A1WhQ==}
     peerDependencies:
       vue: '>=3.3.0'
 
@@ -1083,7 +1083,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@onionl-ui/preset@0.0.8': {}
+  '@onionl-ui/preset@0.0.9': {}
 
   '@polka/url@1.0.0-next.28': {}
 
@@ -1593,7 +1593,7 @@ snapshots:
       node-fetch-native: 1.6.6
       ufo: 1.5.4
 
-  onionl-ui@0.1.0(typescript@5.7.3)(vue@3.5.13(typescript@5.7.3)):
+  onionl-ui@0.1.1(typescript@5.7.3)(vue@3.5.13(typescript@5.7.3)):
     dependencies:
       '@floating-ui/vue': 1.1.6(vue@3.5.13(typescript@5.7.3))
       '@vueuse/core': 12.7.0(typescript@5.7.3)

@@ -1,3 +1,11 @@
 * {
   --default-color: #ef6c00;
+  --onl-primary: #ef6c00;
+  --onl-outline-text: #ef6c00;
+  --onl-outline-hover: #f97203;
+  --onl-outline-border: #ef6c00;
+}
+
+.dark {
+  background-color: #000;
 }
